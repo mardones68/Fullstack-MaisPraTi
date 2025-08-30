@@ -10,14 +10,6 @@ O curso oferece exercícios e projetos que abrangem desde conceitos iniciais at�
 - Conteúdo estruturado para consolidar fundamentos e boas práticas.
 - Desenvolvimento de projetos que simulam situações reais de mercado.
 
-## Estrutura do Repositório
-
-Cada pasta contém exercícios separados, organizados por lista:
-
-- **Primeira-Lista-De-Exercicios** → Introdução e exercícios iniciais.  
-- **Segunda-Lista-De-Exercicios** → Exercícios intermediários, reforçando conceitos.  
-- **Terceira-Lista-De-Exercicios** → Exercícios avançados e projetos práticos.  
-
 ## Como Utilizar
 
 1. Clone o repositório:
