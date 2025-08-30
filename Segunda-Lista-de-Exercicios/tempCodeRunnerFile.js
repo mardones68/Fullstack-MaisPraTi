@@ -1,0 +1,1 @@
+let palavra = "Ola ola mundo mundo"
